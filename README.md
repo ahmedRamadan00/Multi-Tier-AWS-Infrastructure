@@ -1,6 +1,6 @@
 # Multi-Tier AWS Infrastructure with Terraform
 
-Production-grade AWS infrastructure built using Terraform following a modular and scalable architecture.
+AWS infrastructure built using Terraform following a modular and scalable architecture.
 
 ---
 
